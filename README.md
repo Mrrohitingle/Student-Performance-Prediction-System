@@ -95,14 +95,11 @@ python train_model.py
 ## 📜 Research Paper
 For a detailed explanation of the methodology and results, refer to the research paper: [Student Performance Prediction Research Paper](https://drive.google.com/file/d/1Rz9M1vqcSuHBFKhh5Hyc44opzDOOqPIK/view?usp=sharing)
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ## 🤝 Contributing
 Pull requests are welcome! If you'd like to improve the project, open an issue to discuss your ideas.
 
 ## 📧 Contact
-For inquiries, reach out at: [your-email@example.com](mailto:your-email@example.com)
+For inquiries, reach out at: [your-rohitngle2912@gmail.com](mailto:rohitingle2912@gmail.com)
 
----
-Made with ❤️ by [Your Name](https://github.com/your-username)
+
