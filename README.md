@@ -100,6 +100,6 @@ For a detailed explanation of the methodology and results, refer to the research
 Pull requests are welcome! If you'd like to improve the project, open an issue to discuss your ideas.
 
 ## 📧 Contact
-For inquiries, reach out at: [your-rohitngle2912@gmail.com](mailto:rohitingle2912@gmail.com)
+For inquiries, reach out at: [rohitngle2912@gmail.com](mailto:rohitingle2912@gmail.com)
 
 
